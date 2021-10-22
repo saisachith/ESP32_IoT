@@ -7,7 +7,15 @@ When connected to your ESP32 WiFi for IP address go to your command prompt and k
 
 Command : ipconfig
 
-The you get something like this.
+The you get something like this:
+
 ![IPCONFIG](https://user-images.githubusercontent.com/70768880/138465834-7ead6a97-29ba-41a5-a083-d0d40cf51238.png)
 
 And the Webserver Interface Will be something like this:
+
+![Webinterface](https://user-images.githubusercontent.com/70768880/138466162-9eab1de6-7d8e-4dd2-b6f8-40e8bff38645.png)
+
+Play with it and enjoy.
+
+
+
