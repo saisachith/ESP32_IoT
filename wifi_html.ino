@@ -1,6 +1,6 @@
 #include "WiFi.h"
-const char* ssid = "ESP32_Sac";
-const char* password = "12345";
+const char* ssid = "ESP32_sachith";
+const char* password = "1234567890";
 WiFiServer server(80);
 String html = "<!DOCTYPE html>\
 <html>\
