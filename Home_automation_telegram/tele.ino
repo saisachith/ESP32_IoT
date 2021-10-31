@@ -10,7 +10,7 @@ DHT dht(DHTPIN,DHT11);
 char ssid[] = "Sai Sachith";     // your network SSID (name)
 char password[] = "123saisachith"; // your network key
 
-#define BOTtoken "2097535350:AAGkApUs-WSz7g6knE1D1xqTYwE6UHRKenM" // your Bot Token (Get from Botfather)
+#define BOTtoken "" // your Bot Token (Get from Botfather)
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
